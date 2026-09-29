@@ -39,22 +39,56 @@ and what you found or built.]
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
 
-# Protecting Farmland in a Small Municipality
+`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
 
-![Project overview image](../assets/images/project1-cover.png)
+[View Project →](sample-notebook.ipynb){ .md-button }
+</div>
 
-## Overview
+<div class="project-card" markdown>
+![](../assets/images/project1-cover.png)
 
-In the context of France's Climate and Resilience Act, land use sobriety requires stronger protection of farmland, while local governments remain responsible for applying land law through the PLU (local planning document). Peri-urbanization, however, creates strong land development pressure. This case study of Lunel-Viel, Hérault, examines how the municipality co-creates planning regulations with the state to limit land take, reconciling environmental goals with residents' interests.
+**[Protecting Farmland in a Small Municipality](protecting-farmland-in-a-small-municipality.md)**
 
-**Study Area:** Lunel-Viel, Hérault, France
-**Duration:** 2 months
-**Role:** Solo project
-**Status:** Completed
+Master's dissertation examining how the municipality of Lunel-Viel, Hérault, co-creates planning regulations with the state to protect farmland against peri-urban development pressure.
 
 `Urban Planning` `QGIS` `Land Use Policy`
 
-[View Project →](protecting-farmland-in-a-small-municipality){ .md-button }
+[View Project →](protecting-farmland-in-a-small-municipality.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/project2-cover.png)
+
+**[Long-Term Vegetation Diversity Trends in North America](vegetation-diversity-pollen.md)**
+
+Analysis of Simpson's diversity index from fossil pollen records at six North American lakes across the Holocene, exploring how latitude and local conditions shaped vegetation diversity over 11,000 years.
+
+`Paleoecology` `R` `Biodiversity`
+
+[View Project →](vegetation-diversity-pollen.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/project3-cover.png)
+
+**[NGO Campaign Briefing to Ban Urban Pesticides in the UK](ngo-pesticides-briefing.md)**
+
+Policy briefing written for an environmental policy course, presenting a coalition campaign strategy to secure a national ban on urban pesticides in the UK, addressing the health and environmental risks of urban pesticide use and the political obstacles to regulation.
+
+`Environmental Protection` `Political Science`
+
+[View Project →](ngo-pesticides-briefing.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/project4-cover.png)
+
+**[Sample Project](more-than-human-landscapes.md)**
+
+Essay for a "Living Landscapes" course on cultural geography, examining how more-than-human agents — trees, fungi, wastelands — actively shape cultural memory, heritage and ecological transformation, and how they challenge dominant narratives of landscape, land use and value.
+
+`Cultural Geography` `Landscape Analysis` 
+
+[View Project →](more-than-human-landscapes.md){ .md-button }
+</div>
 </div>
