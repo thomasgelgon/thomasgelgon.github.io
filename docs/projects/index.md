@@ -69,7 +69,7 @@ Analysis of Simpson's diversity index from fossil pollen records at six North Am
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/project3-cover.png)
+![](../assets/images/project3-cover.jpg)
 
 **[NGO Campaign Briefing to Ban Urban Pesticides in the UK](ngo-pesticides-briefing.md)**
 
@@ -83,12 +83,25 @@ Policy briefing written for an environmental policy course, presenting a coaliti
 <div class="project-card" markdown>
 ![](../assets/images/project4-cover.png)
 
-**[Sample Project](more-than-human-landscapes.md)**
+**[More-than-Human Agency in Landscape Memory and Heritage](more-than-human-landscapes.md)**
 
 Essay for a "Living Landscapes" course on cultural geography, examining how more-than-human agents — trees, fungi, wastelands — actively shape cultural memory, heritage and ecological transformation, and how they challenge dominant narratives of landscape, land use and value.
 
-`Cultural Geography` `Landscape Analysis` 
+`Cultural Geography` `Landscape Analysis`
 
 [View Project →](more-than-human-landscapes.md){ .md-button }
 </div>
+
+<div class="project-card" markdown>
+![](../assets/images/project5-cover.png)
+
+**[Demographic Diagnosis — Grand Pic Saint-Loup Territorial Report](grand-pic-saint-loup-demographics.md)**
+
+Contributed demographic analysis (population growth, migration and aging maps) to a 100-page collective territorial diagnostic for the Development Council of the Communauté de communes du Grand Pic Saint-Loup.
+
+`Urban Planning` `Demography` `Magrit`
+
+[View Project →](grand-pic-saint-loup-demographics.md){ .md-button }
+</div>
+
 </div>
