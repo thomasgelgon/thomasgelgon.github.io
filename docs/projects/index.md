@@ -39,9 +39,22 @@ and what you found or built.]
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
 
-`Python` `pandas` `Folium`
+# Protecting Farmland in a Small Municipality
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+![Project overview image](../assets/images/project1-cover.png)
+
+## Overview
+
+In the context of France's Climate and Resilience Act, land use sobriety requires stronger protection of farmland, while local governments remain responsible for applying land law through the PLU (local planning document). Peri-urbanization, however, creates strong land development pressure. This case study of Lunel-Viel, Hérault, examines how the municipality co-creates planning regulations with the state to limit land take, reconciling environmental goals with residents' interests.
+
+**Study Area:** Lunel-Viel, Hérault, France
+**Duration:** 2 months
+**Role:** Solo project
+**Status:** Completed
+
+`Urban Planning` `QGIS` `Land Use Policy`
+
+[View Project →](protecting-farmland-in-a-small-municipality){ .md-button }
 </div>
 
 </div>
