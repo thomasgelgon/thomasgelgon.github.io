@@ -79,6 +79,7 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "Protecting farmland in a small municipality": projects/protecting-farmland-in-a-small-municipality.md
+    - "Long-Term Vegetation Diversity Trends in North America: Evidence from Fossil Pollen": projects/vegetation-diversity-pollen.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
