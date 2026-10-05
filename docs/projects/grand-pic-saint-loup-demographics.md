@@ -4,7 +4,7 @@
 
 ## Overview
 
-Contributed demographic analysis (population growth, migration, and aging maps and written sections) to a 100-page collective territorial diagnostic produced by my master's degree class for the Development Council (CODEV) of the Communauté de communes du Grand Pic Saint-Loup (Hérault), as part of a real commission from the local authority.
+Contributed demographic analysis (migration and aging maps and written sections) to a 100-page collective territorial diagnostic produced by my master's degree class for the Development Council (CODEV) of the Communauté de communes du Grand Pic Saint-Loup (Hérault), as part of a real commission from the local authority.
 
 **Study Area:** Communauté de communes du Grand Pic Saint-Loup, Hérault
 **Duration:** September 2025 – December 2025 (4 months)

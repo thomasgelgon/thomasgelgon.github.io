@@ -51,4 +51,5 @@ In the context of France's Climate and Resilience Act, land use sobriety require
 
 ## Links
 
-*Code repository and data sources to be added.*
+[Download the dissertation (PDF) :material-download:](../assets/documents/memoire_M1.pdf){ .md-button }
+[Download the appendices (PDF) :material-download:](../assets/documents/annexes_memoire_M1.pdf){ .md-button }

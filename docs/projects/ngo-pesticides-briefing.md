@@ -41,4 +41,4 @@ Policy briefing written for an environmental policy course, presenting a coaliti
 
 ## Links
 
-*Code repository and data sources to be added.*
+[Download the briefing (PDF) :material-download:](../assets/documents/briefing_ONG.pdf){ .md-button }

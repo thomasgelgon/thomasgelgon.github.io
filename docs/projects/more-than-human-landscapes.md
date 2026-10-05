@@ -40,4 +40,4 @@ Essay for a "Living Landscapes" course on cultural geography, examining how more
 
 ## Links
 
-*Code repository and data sources to be added.*
+[Download the essay (PDF) :material-download:](../assets/documents/living_landscapes.pdf){ .md-button }

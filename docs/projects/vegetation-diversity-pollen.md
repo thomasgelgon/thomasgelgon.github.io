@@ -44,4 +44,4 @@ Analysis of Simpson's diversity index from fossil pollen records at six North Am
 
 ## Links
 
-*Code repository and data sources to be added.*
+[Download the poster (PDF) :material-download:](../assets/documents/poster_paleocologie.pdf){ .md-button }
