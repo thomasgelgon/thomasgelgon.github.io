@@ -83,7 +83,6 @@ nav:
     - "NGO Campaign Briefing to Ban Urban Pesticides in the UK": projects/ngo-pesticides-briefing.md
     - "More-than-Human Agency in Landscape Memory and Heritage": projects/more-than-human-landscapes.md
     - "Demographic Diagnosis — Grand Pic Saint-Loup Territorial Report": projects/grand-pic-saint-loup-demographics.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
