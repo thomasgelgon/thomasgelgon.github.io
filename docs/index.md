@@ -69,7 +69,7 @@ I use QGIS and other open-source GIS tools, Adobe Creative Suites and R for stat
 
     ---
 
-    - R — terra, ggplot2
+    - R — ggplot2, dplyr, vegan, rnaturalearth
    
 
 -   :material-star-four-points:{ .lg .middle } **Communication skills**
