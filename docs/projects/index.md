@@ -82,7 +82,7 @@ Contributed demographic analysis (population growth, migration and aging maps) t
 
 
 <div class="project-card" markdown>
-![](../assets/images/project5-cover.png)
+![](../assets/images/project6-cover.png)
 
 **[ Typology of Hérault Municipalities for Land-Use Trade-offs](herault-land-use-typology.md)**
 
@@ -90,6 +90,6 @@ Typology of the municipalities of the Hérault département most likely to host 
 
 `Urban Planning` `R` `PCA`
 
-[View Project →](grand-pic-saint-loup-demographics.md){ .md-button }
+[View Project →](herault-land-use-typology.md){ .md-button }
 </div>
 </div>
