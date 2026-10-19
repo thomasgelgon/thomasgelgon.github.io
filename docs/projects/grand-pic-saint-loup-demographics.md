@@ -50,4 +50,6 @@ Contributed demographic analysis (migration and aging maps and written sections)
 
 ## Links
 
-*Code repository and data sources to be added.*
+[Download the aging map (PDF) :material-download:](../assets/documents/carte-vieillissement.pdf){ .md-button }
+[Download the household size map (PDF) :material-download:](../assets/documents/carte-taille-menages.pdf){ .md-button }
+[Download the population change map (PDF) :material-download:](../assets/documents/carte-evolution-population.pdf){ .md-button }

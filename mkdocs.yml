@@ -78,11 +78,12 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
+    - "Typology of Hérault Municipalities for Land-Use Trade-offs": projects/herault-land-use-use.md
+    - "Demographic Diagnosis — Grand Pic Saint-Loup Territorial Report": projects/grand-pic-saint-loup-demographics.md
     - "Protecting farmland in a small municipality": projects/protecting-farmland-in-a-small-municipality.md
     - "Long-Term Vegetation Diversity Trends in North America: Evidence from Fossil Pollen": projects/vegetation-diversity-pollen.md
     - "NGO Campaign Briefing to Ban Urban Pesticides in the UK": projects/ngo-pesticides-briefing.md
     - "More-than-Human Agency in Landscape Memory and Heritage": projects/more-than-human-landscapes.md
-    - "Demographic Diagnosis — Grand Pic Saint-Loup Territorial Report": projects/grand-pic-saint-loup-demographics.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)

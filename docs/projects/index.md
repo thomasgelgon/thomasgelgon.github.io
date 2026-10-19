@@ -80,4 +80,16 @@ Contributed demographic analysis (population growth, migration and aging maps) t
 [View Project →](grand-pic-saint-loup-demographics.md){ .md-button }
 </div>
 
+
+<div class="project-card" markdown>
+![](../assets/images/project5-cover.png)
+
+**[ Typology of Hérault Municipalities for Land-Use Trade-offs](herault-land-use-typology.md)**
+
+Typology of the municipalities of the Hérault département most likely to host commercial and logistics activities, and therefore the areas most exposed to land artificialisation. The map crosses five variables that shape land-use trade-offs (available land, price, hazards, customer catchment area and logistics accessibility) through a principal component analysis followed by hierarchical clustering. This is my individual analysis, produced as part of a collective project for an exhibition organised with the Hérault Chamber of Commerce and Industry (CCI).
+
+`Urban Planning` `R` `PCA`
+
+[View Project →](grand-pic-saint-loup-demographics.md){ .md-button }
+</div>
 </div>
