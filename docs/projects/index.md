@@ -92,4 +92,16 @@ Typology of the municipalities of the Hérault département most likely to host 
 
 [View Project →](herault-land-use-typology.md){ .md-button }
 </div>
+
+<div class="project-card" markdown>
+![](../assets/images/project7-cover.png)
+
+**[Saussan Urban Design Studio](saussan-urban-studio.md)**
+
+Master's studio for the commune of Saussan: individual sector diagnoses assembled into a shared Plan-Guide to 2040 (in progress).
+
+`Urban Planning` `Fieldwork` `Plan-Guide`
+
+[View Project →](saussan-urban-studio.md){ .md-button }
+</div>
 </div>
