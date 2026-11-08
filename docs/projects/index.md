@@ -104,4 +104,16 @@ Master's studio for the commune of Saussan: individual sector diagnoses assemble
 
 [View Project →](saussan-urban-studio.md){ .md-button }
 </div>
+
+<div class="project-card" markdown>
+![](../assets/images/project8-cover.png)
+
+**[Bratislava's Winter Harbour: Urban Diagnosis](bratislava-winter-harbour.md)**
+
+Personal urban diagnosis of Bratislava's 64.5 ha Winter Harbour at three scales, from the Central European region to the site, ahead of a masterplan proposal.
+
+`Urban Design` `Waterfront Regeneration` `QGIS` `R`
+
+[View Project →](bratislava-winter-harbour.md){ .md-button }
+</div>
 </div>

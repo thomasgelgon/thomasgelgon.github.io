@@ -38,6 +38,7 @@ Personal urban design exercise based on the 2026 competition brief of the Metrop
 |------|---------|
 | QGIS | Mapping and spatial analysis (site, heritage, flood levels) |
 | Adobe Illustrator | Layout of the four diagnostic boards |
+| R | Urban sprawl & Floods maps and population growth graph |
 
 ---
 
